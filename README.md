@@ -1,1 +1,5 @@
-Complete Data Analysis through Power-BI Vizualizations and creating Dashboards and also publishing Reports and Presentations of Datasets of Airbnb for Paris City, Coke Company Dataset, Online Retail Dataset and NIke USA products.
+Title: Gender Differences on Investment Preferences
+This exploration delves into how gender shapes investment preferences, considering factors like risk tolerance, societal norms, and financial literacy. Understanding these dynamics is crucial for tailoring financial services and strategies to diverse needs. 
+Differences in risk perception, socio-cultural influences, and the impact of gender norms on financial decisionmaking has been examined here. 
+By recognizing and addressing these factors, we aim to promote inclusivity and equity in the investment landscape, fostering better outcomes for all genders.
+
